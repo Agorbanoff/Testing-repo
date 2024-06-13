@@ -1,1 +1,1 @@
-# 8 grade- workinh in c
+# 8 grade- working in c
